@@ -1,0 +1,5 @@
+C:\Users\Adriano\Documents\Visual Studio 2008\Projects\umb4042s.viking.it\umbraco\presentation\bin\FALMTabularFolderBrowser.dll
+C:\Users\Adriano\Documents\Visual Studio 2008\Projects\umb4042s.viking.it\umbraco\presentation\bin\FALMTabularFolderBrowser.pdb
+C:\Users\Adriano\Documents\Visual Studio 2008\Projects\umb4042s.viking.it\extensions\FALMTabularFolderBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adriano\Documents\Visual Studio 2008\Projects\umb4042s.viking.it\extensions\FALMTabularFolderBrowser\obj\Debug\FALMTabularFolderBrowser.dll
+C:\Users\Adriano\Documents\Visual Studio 2008\Projects\umb4042s.viking.it\extensions\FALMTabularFolderBrowser\obj\Debug\FALMTabularFolderBrowser.pdb
